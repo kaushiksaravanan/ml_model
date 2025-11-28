@@ -1,0 +1,4 @@
+city,pincode,date,predicted_patient_load,predicted_disease_spike,predicted_intensity
+9,530012,2025-11-27,254.16240077193885,vector_risk,Moderate
+9,530012,2025-11-29,255.78447055340519,vector_risk,Low
+9,530012,2025-12-02,252.6892727086816,vector_risk,Low
